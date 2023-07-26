@@ -7,3 +7,4 @@
 
 #ops.py : 包括non_max_suppression, xywh2xyxy, box_iou, scale_boxes, clip_boxes
 
+#simple_sdk: 通过C++编写SDK代码, 完成部署
